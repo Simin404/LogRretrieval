@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving down a street with a clear view of the road ahead. The car is on a test drive, and the driver is navigating through a city street with a clear view of the road ahead. The weather appears to be overcast, and the street is lined with buildings on both sides. There are no visible pedestrians or other vehicles on the street, and the car is driving on the right side of the road. The driver is wearing a seatbelt and the car is in motion. The video captures the car's journey from a first-person perspective, and the driver is seen turning right at an intersection. The car is driving on a street with a clear view of the road ahead, and there are no visible obstacles or traffic. The video does not show any other notable surrounding events or behaviors.

@@ -1,0 +1,26 @@
+ER: 
+Interpret the video by identifying the driving conditions, environmental factors and any significant road events. ASSISTANT: **Driving Conditions:**
+                                            * Identify and describe the speed of the vehicle.
+                                            * Detect any instances of acceleration or deceleration. Explain if braking occurs.
+                                            * If possible, estimate the force or intensity of the acceleration/braking.
+                                        **Environmental Conditions:**
+                                            * Analyze the weather (e.g., clear, rainy, snowy, foggy) and road conditions (e.g., wet, dry, icy).
+                                        **Significant Road Events:**
+                                            * Recognize and describe any other vehicles on the road, including whether they surpass the driver or stay ahead.
+                                            * Detect any pedestrians, cyclists, or other objects (e.g., road signs, traffic lights) in or near the road.
+                                            * Note any changes in the surroundings, such as tunnels, bridges, intersections, or sharp turns approaching.
+                                            * Report any traffic congestion, accidents, or emergency vehicles in view. USER:   Describe the video with the format of                                                 **Driving conditions: ... **;                                                 **Environmental factors: ... **;                                                 **Significant events: ... **  
+
+
+**Driving Conditions:**
+                                            The video shows a busy highway with multiple lanes of traffic, including cars, trucks, and motorcycles. The weather appears to be cloudy, and the road is wet, indicating recent rain.
+                                            The vehicles are driving at various speeds, with some accelerating and others decelerating, suggesting a mix of traffic flow.
+                                            The road is wide and well-maintained, with no visible obstructions or hazards.
+
+**Environmental Factors:**
+                                            The weather is cloudy, with a wet road surface, indicating recent rain. The road is well-maintained, and there are no visible signs of snow or ice.
+                                            The sky is overcast, and the lighting is diffused, suggesting it might be daytime.
+**Significant Events:**
+                                            The video captures a mix of vehicles, including cars, trucks, and motorcycles, all driving on the highway. Some vehicles are passing each other, while others are maintaining their lanes.
+                            There are no visible pedestrians or cyclists in the video. A motorcycle is seen in the right lane, and a car is seen in the left lane.
+                            The road is clear, with no visible accidents or emergency vehicles

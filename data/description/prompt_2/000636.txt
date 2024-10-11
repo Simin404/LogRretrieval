@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving through a tunnel with multiple lanes of traffic. The car is surrounded by other vehicles, including cars and trucks, and there are motorcyclists present as well. The lighting in the tunnel is dim, with some areas being brighter than others. The car is driving on the right side of the road, and the driver is wearing a seatbelt. The video captures the car's journey through the tunnel, with the camera positioned in the front of the car. The car is driving on a highway with multiple lanes of traffic, and the driver is wearing a seatbelt. The video shows the car driving on the right side of the road.

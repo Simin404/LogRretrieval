@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a truck driving down a road with a clear sky and no visible traffic. The road is surrounded by trees and houses, and there is a grassy area on the side of the road. The truck is driving on the right side of the road, and the camera is positioned in the front of the truck. The road is empty, and there are no other vehicles visible in the video. The truck is driving on a clear day with no visible traffic, and the camera is positioned in the front of the truck.

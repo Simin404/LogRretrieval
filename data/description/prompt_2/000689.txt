@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving through a tunnel with a bright light at the end. The car is seen from the perspective of a rear view mirror, and the driver is wearing a seatbelt. The car is driving on a highway with other cars on the road. The light at the end of the tunnel is bright, and the car is driving towards it. The car is seen from the rear view mirror, and the driver is wearing a seatbelt. The car is driving on a highway with other cars on the road. The light at the end of the tunnel is bright, and the car is driving towards it.

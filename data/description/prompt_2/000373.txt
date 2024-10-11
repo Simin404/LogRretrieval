@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a city street with multiple lanes of traffic, including cars, buses, and trucks. The weather appears to be overcast, with a cloudy sky and possibly rain, as the street is wet. The traffic is moderate, with cars and buses moving in both directions. There are no visible pedestrians or cyclists in the video. The trucks are driving on the right side of the road, and the cars are driving on the left side. The street is lined with buildings, and there are no visible signs or landmarks that can be identified. The video captures the view from the driver's perspective, showing the road ahead and the vehicles around the car.

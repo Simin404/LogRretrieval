@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy city street with a lot of traffic, including cars, trucks, and motorcycles. The weather appears to be cloudy, and the lighting suggests it might be either early morning or late afternoon. The road is wide and has multiple lanes, with a concrete median in the middle. There are buildings on both sides of the road, and a bridge is visible in the distance. The camera is mounted on the front of a vehicle, and the view is slightly tilted to the left. The road is surrounded by a concrete barrier, and there are trees on the left side of the road. The vehicles are driving in the same direction, and the camera captures the view from the front of a car.

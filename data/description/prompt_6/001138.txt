@@ -1,0 +1,27 @@
+ER: 
+Interpret the video by identifying the driving conditions, environmental factors and any significant road events. ASSISTANT: **Driving Conditions:**
+                                            * Identify and describe the speed of the vehicle.
+                                            * Detect any instances of acceleration or deceleration. Explain if braking occurs.
+                                            * If possible, estimate the force or intensity of the acceleration/braking.
+                                        **Environmental Conditions:**
+                                            * Analyze the weather (e.g., clear, rainy, snowy, foggy) and road conditions (e.g., wet, dry, icy).
+                                        **Significant Road Events:**
+                                            * Recognize and describe any other vehicles on the road, including whether they surpass the driver or stay ahead.
+                                            * Detect any pedestrians, cyclists, or other objects (e.g., road signs, traffic lights) in or near the road.
+                                            * Note any changes in the surroundings, such as tunnels, bridges, intersections, or sharp turns approaching.
+                                            * Report any traffic congestion, accidents, or emergency vehicles in view. USER:   Describe the video with the format of                                                 **Driving conditions: ... **;                                                 **Environmental factors: ... **;                                                 **Significant events: ... **  
+
+
+**Driving Conditions:**
+                                            The video shows a city street with a mix of vehicles, including cars, motorcycles, and trucks. The weather appears to be cloudy, and the road is wet, suggesting recent rain.
+                                            The driver is navigating through an intersection, with a car in front of them and a motorcycle to their right.
+                                            The driver is accelerating to pass the car in front, and the motorcycle is also accelerating to stay ahead.
+                                            The driver is in the right lane, and there are no visible pedestrians or cyclists in the immediate vicinity.
+                                            The road is clear, and there are no significant road events or congestion.
+
+
+**Environmental Factors:**
+                                            The weather is cloudy, and the road is wet, indicating recent rain.
+                                            The street is lined with buildings, and there are no visible signs or traffic lights in the immediate vicinity.
+                                            The road appears to be clear, and there are no visible tunnels, bridges, or sharp turns approaching.
+                                            The video does not show any accidents or emergency vehicles.

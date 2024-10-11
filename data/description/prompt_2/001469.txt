@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a highway with multiple lanes, surrounded by other vehicles. The weather appears to be overcast, and the lighting is dim, suggesting it might be either early morning or late evening. The car is driving on the right side of the road, which is the correct side for the country it is in. The road is wide and has multiple lanes, with some cars driving in the left lane and others in the right lane. The car is driving in the right lane, and there is a truck in the left lane. The car is driving at a moderate speed, and there are no visible traffic lights or signs in the video. The road is clear of any obstacles, and the car is driving smoothly. The surrounding environment is urban, with buildings visible in the background. The car is driving on the right side of the road, which is the correct side for the country it is in. The video does not show any other notable events or behaviors.

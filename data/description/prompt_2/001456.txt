@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a clear sky and green trees on both sides. The car is on a test drive, and the driver is wearing a black shirt. The road is clear and there are no visible pedestrians or cyclists. The car is driving on the right side of the road, and there is a blue car parked on the side of the road. The car is driving on a street with a white line in the middle of the road. The driver is wearing a black shirt and there is a blue car parked on the side of the road. The car is driving on the right side of the road. The road is clear and there are no visible pedestrians or cyclists. The car is driving on a street with a white line in the middle of the road.

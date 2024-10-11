@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy highway with multiple lanes of traffic, including cars, trucks, and motorcycles. The weather appears to be overcast, and the road is wet, indicating recent rain. The surrounding environment is lush with greenery, and there are trees and buildings in the background. The video captures the view from the driver's perspective, showing the road ahead and the vehicles around. The driver is wearing a helmet and appears to be focused on the road. The video also shows a person on a motorcycle in the right lane, and a car in the left lane with a motorcycle following it. The driver of the car is wearing a helmet and appears to be looking at the motorcycle. The video captures the driving conditions, including the wet road, the busy traffic, and the surrounding environment.

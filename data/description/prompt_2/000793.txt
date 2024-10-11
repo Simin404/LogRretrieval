@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy highway with multiple lanes of traffic, including cars, trucks, and vans. The weather appears to be cloudy, and the road is wet, indicating that it has recently rained. The vehicles are driving in the rain, and the road is reflecting the light from the cars' headlights. The camera is mounted on the windshield of a car, and the view is slightly blurry, suggesting that the car is moving at a moderate speed. The road is wide and has multiple lanes, and there are no visible barriers or signs in the immediate vicinity. The vehicles are driving in the rain, and the road is reflecting the light from the cars' headlights. The camera is mounted on the windshield of a car, and the view is slightly blurry, suggesting that the car is moving at a moderate speed.

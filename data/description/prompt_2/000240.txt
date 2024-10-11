@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a city street with a large building in the background. The car is seen driving on a clear day with no visible traffic or pedestrians. The street is lined with buildings and there are no visible signs of construction or road work. The car is driving on the right side of the road, and the driver is wearing a seatbelt. The car is a white sedan. The video is taken from the perspective of a car's dashboard camera.

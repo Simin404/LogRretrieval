@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a cloudy sky and a few other cars on the road. The car is seen driving on the highway with a cloudy sky, and there are no other notable events or behaviors visible in the video. The driving conditions appear to be normal, with no rain or snow visible. The car is driving on the highway with a cloudy sky, and there are no other notable events or behaviors visible in the video.

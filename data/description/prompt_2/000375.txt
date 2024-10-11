@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a person crossing the street in front of it. The car is moving at a moderate speed, and the person is walking in front of it. The street is lined with trees and buildings, and there are no visible traffic lights or signs. The sky is overcast, and the street appears to be in a residential area. The car is a small sedan, and the person crossing the street is wearing a dark jacket. The video is taken from the perspective of a car's dashboard camera.

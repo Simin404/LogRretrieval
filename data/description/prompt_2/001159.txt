@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a large crane visible in the background. The sun is shining brightly, and the sky is clear. The car is driving on a road with a blue barrier on the side, and there is a large crane in the background. The road appears to be clear, and there are no visible signs of traffic or other vehicles. The car is driving on the right side of the road, and the street is lined with buildings. The sun is shining brightly, and the sky is clear, indicating a sunny day. The car is driving on a road with a blue barrier on the side, and there is a large crane in the background. The road appears to be clear, and there are no visible signs of traffic or other vehicles. The car is driving on the right side of the road, and the street is lined with buildings.

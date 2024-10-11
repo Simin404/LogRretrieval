@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a city street with multiple lanes of traffic. The car is seen driving under a bridge and passing through an intersection with traffic lights. The street is lined with buildings, and there are trees and a sidewalk on the right side. The car is driving on a cloudy day, and the traffic lights are green. The car is seen driving on the right side of the road, and there is a pedestrian crossing the street in front of the car. The car is also seen driving on the left side of the road. The video captures the car driving on a city street with multiple lanes of traffic, passing through an intersection with traffic lights, and driving under a bridge. The car is seen driving on a cloudy day, and the traffic lights are green.

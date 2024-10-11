@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, passing other cars, and going through an intersection. The weather appears to be cloudy and overcast, with no visible sunlight. The car is driving on the right side of the road, and there are no visible signs of rain or snow. The road is clear and dry, with no visible debris or obstacles. The car is driving at a moderate speed, and there are no visible signs of aggressive driving or erratic behavior. The surrounding environment includes trees and other vehicles, and the car is driving on the right side of the road. The video does not show any notable events or behaviors that are not related to the driving conditions.

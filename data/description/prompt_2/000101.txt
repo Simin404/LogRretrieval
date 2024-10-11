@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a large building in the background. The car is surrounded by other vehicles, including cars and trucks, and the road is clear of any visible obstacles. The sun is shining brightly, and the sky is clear, indicating good weather conditions. The car is driving on the right side of the road, and the driver is wearing a seatbelt. The car is moving at a moderate speed, and there are no visible signs of aggressive driving or erratic behavior. The surrounding environment is urban, with buildings and trees visible in the background. The video captures the car's journey from a first-person perspective, giving the viewer a sense of being in the driver's seat.

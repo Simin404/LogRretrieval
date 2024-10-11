@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a test drive of a car on a highway with multiple lanes and a few vehicles. The weather appears to be cloudy, and the sky is overcast. The road is wet, indicating that it has recently rained. The car is being driven on the right side of the road, and there are no visible traffic signs or signals. The car is being driven at a moderate speed, and the driver is wearing a seatbelt. The car is a silver sedan, and there is a motorcycle in front of it. The driver is wearing a black jacket and a helmet. The car is a Toyota, and there is a white van in front of it. The road is surrounded by trees, and there is a bridge in the background. The car is being driven on the right side of the road, and there is a white van in front of it. The driver is wearing a black jacket and a helmet.

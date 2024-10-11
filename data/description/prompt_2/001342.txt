@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, passing by other cars and a truck. The weather appears to be overcast, and the sky is grey. The car is driving on the right side of the road, and there is a bridge visible in the distance. The road is surrounded by trees, and there are buildings in the background. The car is driving on the right side of the road, and there is a bridge visible in the distance. The sky is grey, and the weather appears to be overcast. The car is driving on the right side of the road, and there is a bridge visible in the distance. The road is surrounded by trees, and there are buildings in the background.

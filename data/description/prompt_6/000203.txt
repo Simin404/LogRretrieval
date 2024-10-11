@@ -1,0 +1,24 @@
+ER: 
+Interpret the video by identifying the driving conditions, environmental factors and any significant road events. ASSISTANT: **Driving Conditions:**
+                                            * Identify and describe the speed of the vehicle.
+                                            * Detect any instances of acceleration or deceleration. Explain if braking occurs.
+                                            * If possible, estimate the force or intensity of the acceleration/braking.
+                                        **Environmental Conditions:**
+                                            * Analyze the weather (e.g., clear, rainy, snowy, foggy) and road conditions (e.g., wet, dry, icy).
+                                        **Significant Road Events:**
+                                            * Recognize and describe any other vehicles on the road, including whether they surpass the driver or stay ahead.
+                                            * Detect any pedestrians, cyclists, or other objects (e.g., road signs, traffic lights) in or near the road.
+                                            * Note any changes in the surroundings, such as tunnels, bridges, intersections, or sharp turns approaching.
+                                            * Report any traffic congestion, accidents, or emergency vehicles in view. USER:   Describe the video with the format of                                                 **Driving conditions: ... **;                                                 **Environmental factors: ... **;                                                 **Significant events: ... **  
+
+
+**Driving Conditions:**
+                                            The video shows a cloudy day with a mix of sunlight and shadows, indicating variable weather conditions. The vehicle is driving on a multi-lane highway with other cars, and the speed is moderate. There is no acceleration or deceleration visible in the video.
+
+
+**Environmental Factors:**
+                                            The video shows a cloudy day with a mix of sunlight and shadows, indicating variable weather conditions. The road appears to be dry, and there are no signs of rain or snow.
+
+
+**Significant Events:**
+                                            The video shows a multi-lane highway with other cars, and the driver stays ahead of them. There are no pedestrians, cyclists, or other objects visible in the video. The surroundings include tunnels and bridges, but no accidents or emergency vehicles are present.

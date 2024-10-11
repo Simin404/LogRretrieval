@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a highway with a cloudy sky and trees on both sides. The car is on the right side of the road, and there is a truck in front of it. The road is wet, and the car is driving on the right side of the road. The car is in the right lane of the highway. The driver is wearing a seatbelt. The car is driving on a highway with a cloudy sky and trees on both sides. The road is wet, and the car is driving on the right side of the road. The car is in the right lane of the highway. The driver is wearing a seatbelt.

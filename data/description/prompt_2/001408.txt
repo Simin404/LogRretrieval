@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a clear sky and a few clouds in the background. The car is seen driving under a bridge and passing through a tunnel. The road is clear and there are no visible traffic jams or accidents. The car is driving at a moderate speed, and the driver is wearing a seatbelt. The car is a silver sedan. The video is taken from the perspective of a car's dashboard camera.

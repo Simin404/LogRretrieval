@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a city street with multiple lanes and traffic lights. The car is seen driving on a street with a sidewalk and a crosswalk, and there are several other cars on the road. The weather appears to be cloudy, and the street is lined with buildings. The car is driving on a street with a sidewalk and a crosswalk, and there are several other cars on the road. The video shows a car driving down a city street with multiple lanes and traffic lights. The car is seen driving on a street with a sidewalk and a crosswalk, and there are several other cars on the road. The weather appears to be cloudy, and the street is lined with buildings.

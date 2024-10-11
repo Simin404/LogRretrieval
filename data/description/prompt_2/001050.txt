@@ -1,0 +1,3 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+The video shows a busy city street with multiple cars and bicycles. The traffic light is red, and the cars are stopped at the intersection. The street is lined with buildings, and there are trees and a few pedestrians visible. The weather appears to be clear and sunny.

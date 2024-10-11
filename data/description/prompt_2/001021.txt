@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a street with a clear sky and a few clouds. The car is passing by a gas station and a traffic light. The street is lined with trees and houses, and there are a few pedestrians walking on the sidewalk. The car is driving on the right side of the road. The video captures the car's journey from a first-person perspective.

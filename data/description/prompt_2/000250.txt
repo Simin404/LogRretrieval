@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a wet highway with a rainy day. The car is seen from the perspective of a dashboard camera, and the road is wet and shiny, indicating that it has been raining recently. The car is driving on the right side of the road, and there is a bridge visible in the background. The road is surrounded by trees, and there are several cars and trucks on the road. The car is driving on the right side of the road, and there is a bridge visible in the background. The road is surrounded by trees, and there are several cars and trucks on the road. The car is driving on the right side of the road, and there is a bridge visible in the background. The road is surrounded by trees, and there are several cars and trucks on the road.

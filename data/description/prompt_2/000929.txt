@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, surrounded by trees and other vehicles. The car is seen from the perspective of a dashcam, and the weather appears to be sunny. The road is clear with no visible traffic congestion. The car is driving on the right side of the road, and there are no visible signs of any accidents or incidents. The car is driving at a moderate speed, and the driver seems to be focused on the road ahead. The surrounding environment is green and lush, with trees on both sides of the highway. The car is driving on the right side of the road, and there are no visible signs of any accidents or incidents. The video captures a peaceful and calm driving experience on a clear day.

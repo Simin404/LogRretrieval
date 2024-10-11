@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy city street with a lot of traffic, including cars, trucks, and motorcycles. The weather appears to be cloudy, and the road is wet, indicating that it has recently rained. The camera is mounted in the front of a car, and we can see the road ahead, as well as the vehicles in front of us. The traffic is heavy, with cars and trucks moving slowly, and motorcycles weaving in and out of traffic. The camera captures the view of the road ahead, and we can see the vehicles in front of us, including a car in front of us. The road is wet, and the weather is cloudy, suggesting that it has recently rained. The camera is mounted in the front of a car, and we can see the road ahead, as well as the vehicles in front of us.

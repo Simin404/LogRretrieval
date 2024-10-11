@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, passing under a bridge, and driving on a road with a green light. The car is seen driving on a highway with multiple lanes, passing under a bridge, and driving on a road with a green light. The driving conditions are clear and sunny, with no visible traffic or environmental factors that would affect the driving conditions. The car is driving at a moderate speed, and there are no notable surrounding events or behaviors that are visible in the video.

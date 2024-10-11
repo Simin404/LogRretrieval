@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a highway with a tunnel entrance visible in the distance. The car is surrounded by trees, and the sky is overcast. The road is clear, and there are no other vehicles visible in the immediate vicinity. The car is driving on the right side of the road. The video is taken from the perspective of a car's dashboard camera, and the car's speed is not visible. The surrounding environment is dark, with the sky appearing orange, and the trees are bare. The car's headlights are on, and the road is wet. The car is driving on the right side of the road, and there is no traffic in the immediate vicinity. The video captures the car's journey through the tunnel, which is dark and curved. The car's speed is not visible in the video.

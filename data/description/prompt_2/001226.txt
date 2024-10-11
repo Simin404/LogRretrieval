@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a test drive of a bus on a highway. The bus is driving on the right side of the road, and there are other vehicles on the road, including cars and a truck. The bus is driving under a tunnel, and the road is surrounded by trees. The sky is overcast, and the lighting is artificial. The bus is driving on a highway with a tunnel in the background. The video captures the bus driving on the right side of the road, and there are other vehicles on the road, including cars and a truck. The bus is driving under a tunnel, and the road is surrounded by trees. The sky is overcast, and the lighting is artificial.

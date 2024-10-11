@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a highway with a truck following closely behind it. The car is driving in the right lane, and the truck is in the left lane. The car is driving at a moderate speed, and the truck is following at a similar speed. The road is clear, with no visible traffic or obstacles in the immediate vicinity. The weather appears to be overcast, with no sunlight visible in the video. The car and truck are the only vehicles on the road, and there are no other notable events or behaviors occurring in the video. The driving conditions are typical for a highway, with no visible traffic or obstacles in the immediate vicinity.

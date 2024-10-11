@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway under a bridge, with a tunnel visible in the background. The car is surrounded by other vehicles, including cars and trucks, and the road is wet. The weather appears to be cloudy, and the lighting suggests it is either early morning or late evening. The car is driving in the right lane, and the driver is wearing a seatbelt. The car's speed is not visible, but it is moving at a moderate pace. The driver is focused on the road ahead, and there are no other notable events or behaviors to report.

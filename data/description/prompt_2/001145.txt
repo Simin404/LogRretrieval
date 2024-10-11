@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway under a tunnel. The car is surrounded by other vehicles, including cars and trucks, and there are several motorcyclists present. The weather appears to be cloudy, and the lighting is dim. The car is driving on the right side of the road, and the road is wet. The car is seen driving in the right lane, and there is a motorcyclist in the left lane. The car is driving at a moderate speed, and the surrounding environment is urban.

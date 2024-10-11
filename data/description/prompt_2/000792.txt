@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a busy highway with multiple lanes of traffic, including cars and trucks. The weather appears to be cloudy, and the sky is overcast. The car is driving on the right side of the road, and there is a bridge visible in the distance. The car is passing a white truck and a silver car. The road is surrounded by trees and buildings, and there is a sign indicating a toll booth ahead. The car is driving on the right side of the road, and there is a bridge visible in the distance. The sky is overcast, and the weather appears to be cloudy. The car is driving on the right side of the road, and there is a sign indicating a toll booth ahead.

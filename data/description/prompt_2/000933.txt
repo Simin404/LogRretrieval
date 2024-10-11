@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a road with a clear sky and a few clouds. The car is passing by a building with a blue sign on top, and there is a car parked on the side of the road. The road is surrounded by trees and buildings, and there is a car parked on the side of the road. The car is driving on a road with a clear sky and a few clouds. The road is surrounded by trees and buildings, and there is a car parked on the side of the road.

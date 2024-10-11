@@ -1,0 +1,2 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 1. The video shows a car driving on a highway with multiple lanes of traffic. The car is seen driving on the right side of the road, and the camera is positioned in the front of the car. The road is surrounded by tall buildings, and the sky is overcast. The car is driving in the right lane of the highway. The camera is positioned in the front of the car, and the road is surrounded by tall buildings. The sky is overcast.

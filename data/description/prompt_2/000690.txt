@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway under a tunnel. The sun is shining brightly, and the car is moving through the tunnel. The road is clear, and there are no visible vehicles ahead of the car. The car is driving on the right side of the road. The tunnel is well-lit, and the sunlight is shining through the windows, creating a bright and clear environment. The car is moving at a moderate speed, and the driver is focused on the road ahead. The video captures the car's journey through the tunnel, showcasing the bright sunlight and the clear road ahead.

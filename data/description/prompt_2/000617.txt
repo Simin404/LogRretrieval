@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a city street with a mix of cars, trucks, and motorcycles. The weather appears to be overcast, and the street is wet, indicating recent rain. The traffic light is green, and there are pedestrians crossing the street. The vehicles are moving in different directions, and the street is lined with buildings. The video captures the view from the driver's perspective, showing the cityscape and the pedestrians crossing the street.

@@ -1,0 +1,3 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+The video shows a car driving on a highway with a mountain in the background. The car is surrounded by other vehicles, including cars and trucks, and there are traffic lights present. The sky is overcast, and the road is wet, indicating that it has recently rained. The car is driving on the right side of the road, and the driver is wearing a seatbelt. The car is a white sedan. The video captures the car's journey from the left side of the road to the right side, and the driver is seen wearing a seatbelt. The car is driving on the right side of the road, and the driver is wearing a seatbelt. The car is a white sedan.

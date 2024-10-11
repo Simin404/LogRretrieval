@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, passing other cars, and driving under a bridge. The sky is cloudy, and the sun is setting, creating a warm glow. The car is driving on the right side of the road, and there are no visible signs of rain or snow. The road is clear, and the car is moving at a moderate speed. The surrounding environment includes trees and buildings, and the car is driving on the right side of the road. The video captures the car's movement from the perspective of a passenger in the back seat.

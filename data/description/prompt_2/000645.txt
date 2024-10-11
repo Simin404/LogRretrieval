@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a test drive of a car on a busy highway with multiple lanes of traffic. The car is seen driving under an overpass, and the camera captures the view from inside the car. The driving conditions are clear and sunny, with a few clouds in the sky. The car is surrounded by other vehicles, including cars and trucks, and there are trees and buildings visible in the background. The car is driving on the right side of the road, and the driver is wearing a helmet. The car is seen driving at a moderate speed, and the camera captures the view from inside the car, showing the road ahead and the surrounding environment.

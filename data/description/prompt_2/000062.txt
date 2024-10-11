@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, passing other cars, and going under a bridge. The car is seen from the perspective of a dashcam, and the environment is urban with buildings and trees in the background. The weather appears to be clear and sunny. The car is driving on the right side of the road, and there is a sign indicating the direction to Riga. The car is driving at a moderate speed, and the road is clear with no visible traffic congestion. The car is passing a blue car and a white car, and there is a red car in the distance. The car is also seen driving on the left side of the road at one point. The video captures the car's movement and the surrounding environment, including the highway and the bridge.

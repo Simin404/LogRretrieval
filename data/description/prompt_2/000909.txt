@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a wet highway with a truck in front of it. The car is following the truck, and the road is wet, indicating that it has recently rained. The car is driving on the right side of the road, and there are no other vehicles in the immediate vicinity. The truck is driving at a moderate speed, and the car is following it closely. The car's driver is wearing a seatbelt. The truck is white, and the car is black. The road is clear of any obstacles, and the weather is overcast. The car's driver is wearing a seatbelt, and the truck's driver is not visible in the video. The car's driver is wearing a seatbelt, and the truck's driver is not visible in the video.

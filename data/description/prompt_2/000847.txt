@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a winding road surrounded by trees and grass. The sky is cloudy, and the road is made of asphalt. The car is moving at a moderate speed, and the driver is wearing a seatbelt. The car is passing by a field and a fence on the right side of the road. The road is surrounded by trees and grass, and there are no other vehicles visible in the video. The driver is wearing a seatbelt and the car is moving at a moderate speed. The sky is cloudy, and the road is made of asphalt.

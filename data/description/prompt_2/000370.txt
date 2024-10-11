@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a clear view of the road ahead. The car is surrounded by trees and buildings, and the sky is cloudy. The road is clear and dry, with no visible traffic or pedestrians. The car is moving at a moderate speed, and the driver is wearing a seatbelt. The car's headlights are on, and the driver is using the side mirror to check for traffic. The car is driving on the right side of the road, and there is a sign indicating a one-way street ahead. The car is passing a car on the left side of the road. The driver is wearing a seatbelt and the car is moving at a moderate speed. The car is driving on the right side of the road.

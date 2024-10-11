@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a highway with a large building in the background. The car is on a bridge, and the sun is shining brightly, creating a glare on the windshield. The road is clear, and there are no other vehicles visible in the immediate vicinity. The car is driving on the right side of the road, and the speed limit is 50 km/h. The car is passing under a bridge, and there is a car in front of it. The car is also passing a truck on the right side of the road. The sun is shining brightly, and the sky is clear.

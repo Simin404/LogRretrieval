@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with multiple lanes, passing by a car on the right side, and then turning right at an intersection. The car is seen driving on a road with a bike lane and a car parked on the side of the road. The street is lined with trees and houses, and there are cars parked on the side of the road. The sky is overcast, and the car is driving on a road with a bike lane. The car is seen driving on a road with a bike lane and a car parked on the side of the road. The street is lined with trees and houses, and there are cars parked on the side of the road. The sky is overcast, and the car is driving on a road with a bike lane.

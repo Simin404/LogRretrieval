@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a highway with a clear view of the road ahead. The car is on the right side of the road, and there are no visible vehicles in the immediate vicinity. The sky is overcast, and the road appears to be dry. The car is driving on the right side of the road, and there are no visible vehicles in the immediate vicinity. The car is driving on the right side of the road, and there are no visible vehicles in the immediate vicinity. The sky is overcast, and the road appears to be dry.

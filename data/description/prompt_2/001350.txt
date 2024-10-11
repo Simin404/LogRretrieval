@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, and the camera is positioned in the front of the car. The sky is overcast, and the lighting is dim, suggesting that it might be either early morning or late evening. The car is driving on the right side of the road, and there are no other vehicles in the immediate vicinity. The road is clear, and there are no visible signs of traffic congestion. The car is driving at a moderate speed, and the driver appears to be focused on the road ahead. The environment is urban, with buildings visible in the distance, and there are trees on the sides of the road. The car is driving on the right side of the road, and there are no visible signs of traffic congestion. The driver appears to be focused on the road ahead.

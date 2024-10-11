@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a green traffic light. The car is surrounded by trees and buildings, and there is a person walking on the sidewalk. The street is lined with trees and buildings, and there is a bicycle rider on the road. The sky is cloudy, and the car is driving on a street with a crosswalk. The car is surrounded by trees and buildings, and there is a person walking on the sidewalk. The street is lined with trees and buildings, and there is a bicycle rider on the road. The sky is cloudy, and the car is driving on a street with a crosswalk.

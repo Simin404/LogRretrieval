@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a cloudy sky overhead. The car is seen from the perspective of the driver, and the road is clear with no visible traffic. The car is driving on the right side of the road, and there is a truck visible in the distance. The road is surrounded by green grass and trees, and there is a sign indicating the speed limit is 80 km/h. The car is driving at a moderate speed, and the driver is wearing a seatbelt. The video captures the car's journey from the driver's perspective, and there are no other notable events or behaviors observed.

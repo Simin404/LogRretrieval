@@ -1,0 +1,3 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+The video shows a city street with a mix of cars and buses, and the weather appears to be overcast. The street is lined with buildings, and there are trees on both sides. The video captures the view from the driver's perspective, showing the cityscape and the surrounding environment. The driver is seen weaving in and out of traffic, and the video captures the city's hustle and bustle.

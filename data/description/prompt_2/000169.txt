@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a city street scene with a car driving down the road. The car is seen from the perspective of a dashcam, and the street is lined with buildings on both sides. There are several pedestrians walking on the sidewalk, and a few cars are visible in the distance. The sky is overcast, and the street appears to be wet, suggesting that it has recently rained. The car is driving on a crosswalk, and the pedestrians are crossing the street. The car is driving on the right side of the road, and there is a traffic light visible in the distance. The buildings are of various heights and designs, and the street is wide and clear. The car is driving on the right side of the road, and the pedestrians are crossing the street.

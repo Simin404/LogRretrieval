@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street in a city, with a person crossing the street in front of the car. The car is driving on a wet road, and the street appears to be empty except for the crossing pedestrian. The surrounding environment includes buildings, trees, and a clear sky. The car is driving on a street with a crosswalk, and there is a sign indicating a speed limit of 30. The video captures the car's movement from a first-person perspective, and the driver is wearing a blue jacket. The car is driving on the right side of the road, and there is a sign indicating a one-way street. The video also shows a blue car parked on the side of the road.

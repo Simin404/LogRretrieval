@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a bicycle parked on the sidewalk. The car is turning right at an intersection, and there are several pedestrians walking on the sidewalk. The street is lined with trees and buildings, and the sky is overcast. The car is a red sedan.

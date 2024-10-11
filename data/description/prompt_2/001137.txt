@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway at night, with the car's windshield wipers on. The car is seen driving through a tunnel, and the lighting inside the tunnel is dim. The car is driving on the right side of the road, and there are other cars on the road as well. The car is driving at a moderate speed, and the road is clear of any visible obstacles. The car's headlights are on, and the road is wet. The car is driving on the right side of the road, and there are other cars on the road as well. The car is driving at a moderate speed, and the road is clear of any visible obstacles. The car's headlights are on, and the road is wet.

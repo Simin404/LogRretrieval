@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy city street with a large number of people walking and riding motorcycles. The driving conditions are challenging due to the high pedestrian traffic and the need to navigate around them carefully. The environmental factors include a cloudy sky and a mix of buildings, including a large blue building and a tall white building. The video captures the bustling energy of the city with people going about their daily routines.

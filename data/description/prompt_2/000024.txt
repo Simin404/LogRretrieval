@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with apartment buildings on both sides. The street is lined with parked cars, and the sky is overcast. The car is driving on the right side of the road, and there is a car in front of it. The driver is wearing a seatbelt. The car is a silver sedan. The video is taken from the perspective of a car's dashboard camera.

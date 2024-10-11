@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a cloudy sky in the background. The car is passing by a series of construction zones with orange and blue cones, indicating ongoing roadwork. The road is divided into three lanes, with the left lane being the fast lane and the right lane being the slow lane. The car is driving in the middle lane. The road is surrounded by trees and there are no other vehicles in the immediate vicinity. The car is driving at a moderate speed, and the driver is wearing a seatbelt. The video captures the car's journey from the left side of the frame to the right side of the frame, and the car is seen from the perspective of a side mirror.

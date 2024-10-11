@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a snowy highway with a view from the inside of the car. The road is covered in snow, and the car is driving on the right side of the road. The weather is cloudy and overcast, with no sunlight visible. The car is moving at a moderate speed, and the driver is wearing a seatbelt. The road is surrounded by trees and there are no other vehicles visible in the video. The car is driving on the right side of the road, and the driver is wearing a seatbelt. The road is covered in snow, and the car is moving at a moderate speed. The weather is cloudy and overcast, with no sunlight visible.

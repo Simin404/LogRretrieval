@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a city street with multiple lanes and buildings on both sides. The car is seen driving on a street with a green light, and there are other cars on the road as well. The weather appears to be sunny and clear, with no visible rain or snow. The car is driving on a street with a green light, and there are other cars on the road as well. The video shows a car driving down a city street with multiple lanes and buildings on both sides. The car is seen driving on a street with a green light, and there are other cars on the road as well. The weather appears to be sunny and clear, with no visible rain or snow.

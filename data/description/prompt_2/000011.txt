@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a bicyclist in front of it. The car is following the bicyclist, and the street is lined with buildings. The sky is overcast, and the street appears to be wet. The car is driving on the right side of the road, and there is a traffic light visible in the distance. The bicyclist is wearing a white shirt and riding a bicycle with a basket on the front. The car is a small white sedan. The street is lined with buildings, and there is a bench on the sidewalk. The car is following the bicyclist, and the street is wet.

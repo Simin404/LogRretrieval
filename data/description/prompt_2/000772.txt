@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a wet road with a large truck in front of it. The car is following the truck, and the road appears to be wet, indicating that it has recently rained. The sky is overcast, suggesting that it might be a cloudy day. The car is driving on the right side of the road, and there are no other vehicles visible in the immediate vicinity. The truck is hauling a large trailer with a camper on it, which is a recreational vehicle used for camping. The road is surrounded by trees, and there is a construction site in the background, with a crane visible in the distance. The car is driving on the right side of the road, and there are no other vehicles visible in the immediate vicinity. The truck is hauling a large trailer with a camper on it, which is a recreational vehicle used for camping.

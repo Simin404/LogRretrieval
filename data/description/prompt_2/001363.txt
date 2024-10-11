@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a test drive of a car on a city street. The driving conditions are clear and sunny, with no visible traffic congestion. The car is moving at a moderate speed, and there are no visible obstacles on the road. The surrounding environment includes buildings, trees, and a mountain in the distance. The car is passing a truck on the right side of the road, and there is a pedestrian crossing the street in front of the car. The driver is wearing a seatbelt and the car is equipped with a GPS system.

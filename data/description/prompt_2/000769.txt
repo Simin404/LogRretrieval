@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, passing other cars, and the surrounding environment is mostly barren with no visible vegetation. The sky is orange, indicating that it is either sunrise or sunset. The car is driving on the right side of the road, and there is a clear view of the road ahead. The car is driving on the right side of the road, and there is a clear view of the road ahead. The car is driving on the right side of the road, and there is a clear view of the road ahead.

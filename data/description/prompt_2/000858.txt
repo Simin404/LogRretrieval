@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a bicycle attached to the front. The car is seen from the perspective of a person in the back seat of the car. The street is lined with buildings and there are several people walking on the sidewalk. The car is driving on the right side of the street, and there is a crosswalk in the middle of the street. The car is seen going through an intersection with a green light. The street is relatively empty, with only a few people and bicycles visible. The weather appears to be sunny and clear. The car is driving on a road with a speed limit of 30 km/h.

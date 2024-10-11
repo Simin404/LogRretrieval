@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a city street with buildings on both sides. The car is on the right side of the road, and there is a pedestrian on the left side of the road. The sky is clear and blue, and the sun is setting, creating a warm and pleasant atmosphere. The car is driving on a clear day with good visibility. The street is wide and has a few cars on it, including a red car in the distance. The buildings are tall and have many windows, suggesting a commercial or business area. The car is driving on a road with a few cars and a pedestrian, indicating that it is a busy street. The video captures the car driving on a clear day with good visibility, and the sunset creates a warm and pleasant atmosphere.

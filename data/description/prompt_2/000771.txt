@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a truck in front of it. The weather appears to be overcast and rainy, as the sky is grey and the road is wet. The car is driving on the right side of the road, and there is a bridge visible in the distance. The truck is driving on the left side of the road. The car is following the truck, and there is a large truck in the middle lane of the highway. The car is driving on the right side of the road, and there is a bridge visible in the distance. The truck is driving on the left side of the road. The car is following the truck, and there is a large truck in the middle lane of the highway.

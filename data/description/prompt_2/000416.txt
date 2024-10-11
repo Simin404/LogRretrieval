@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes, passing other cars, and going under an overpass. The weather appears to be cloudy, and the time of day is either early morning or late evening, as indicated by the long shadows and the lighting. The car is driving on the right side of the road, and there is a large truck driving in the opposite direction. The car is seen driving on the right side of the road, passing other cars, and going under an overpass. The video captures the car's movement from the perspective of a dashcam, and the surrounding environment includes other cars and an overpass. The car is driving on the right side of the road, passing other cars, and going under an overpass.

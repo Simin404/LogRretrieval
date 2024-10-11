@@ -1,0 +1,3 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+The video shows a city street at night, with a mix of cars, bicycles, and pedestrians. The traffic lights are visible, and the street is lined with buildings. The video captures the bustling activity of the city, with people riding bikes and cars, and the city's lights are on. The video also shows a car driving down the street, and a bicycle rider is visible. The street is lined with buildings, and the city's lights are on.

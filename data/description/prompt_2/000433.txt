@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving through a tunnel with a bright light at the end, indicating that it is either sunrise or sunset. The car is on a city street with multiple lanes of traffic, and there are pedestrians walking on the sidewalks. The weather appears to be cold, as evidenced by the bare trees and the darkness of the sky. The car is driving on a road with a curved surface, and the surrounding environment is urban. The lighting is dim, with the sunlight creating a bright spot at the end of the tunnel. The car is driving on the right side of the road, and there is a pedestrian crossing the street in front of it. The car is driving on the right side of the road, and there is a pedestrian crossing the street in front of it.

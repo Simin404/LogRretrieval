@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a wind turbine in the background. The sky is overcast, and the road is wet. The car is driving on the right side of the road. The car is passing a truck on the left side of the road. The road has white lines on it, and there is a car in front of the car. The car is driving on the right side of the road. The wind turbine is in the background, and the sky is overcast. The road is wet.

@@ -1,0 +1,3 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+The video shows a city street scene with a large number of people walking and crossing the street. The traffic is moderate, with a few buses and cars visible. The weather appears to be sunny and clear, with no visible rain or snow. The street is wide and well-maintained, with no visible potholes or debris. The buildings are tall and have a variety of colors, including blue, white, and beige. The streetlights are visible and functioning, with no visible malfunctions. The people are dressed in casual attire, and there are no visible signs of distress or danger. The overall atmosphere is calm and orderly.

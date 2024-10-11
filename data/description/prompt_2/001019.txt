@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a clear view of the road ahead. The car is surrounded by trees on both sides, and the sky is overcast. The road is made of asphalt and appears to be in good condition. The car is driving on the right side of the road, and there are no visible traffic signs or signals. The car is moving at a moderate speed, and there are no other vehicles on the road. The car is passing by a parked car on the right side of the road. The road is lined with houses on both sides, and there are no visible pedestrians or cyclists. The car is driving in the right lane of the road. The video captures the car's journey from the driver's perspective, and there are no other notable events or behaviors observed.

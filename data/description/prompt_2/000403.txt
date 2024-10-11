@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with other cars in the background. The weather appears to be sunny and clear, as the sun is shining brightly in the sky. The road is clear and there are no visible obstructions. The car is driving on the right side of the road, and there are no visible signs of traffic congestion or accidents. The surrounding environment includes buildings and trees, indicating that the highway is located in an urban or suburban area. The car is driving at a moderate speed, and there are no visible indications of aggressive driving or erratic behavior. The video captures a typical day on the highway with no significant events or behaviors to report.

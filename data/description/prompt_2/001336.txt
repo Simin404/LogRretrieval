@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a test drive of a bus on a highway. The driving conditions are clear and sunny, with no visible traffic or weather-related issues. The bus is driving on the right side of the road, and there are no other vehicles visible in the immediate vicinity. The surrounding environment is a typical highway with trees and buildings on both sides. The bus is driving at a moderate speed, and there are no notable events or behaviors observed during the test drive.

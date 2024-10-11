@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy city street with a lot of traffic, including cars, trucks, and motorcycles. The weather appears to be cloudy and overcast, and the road is wet, indicating that it has recently rained. The traffic is heavy, with cars and trucks moving in both directions, and there are several motorcycles visible. The drivers are seen braking and accelerating, and the motorcyclists are weaving in and out of traffic. The road is wet, and the drivers are using their brakes and accelerators to navigate the traffic. The environment is urban, with tall buildings and trees in the background. The video captures the hustle and bustle of city life, with the drivers' actions reflecting the stress of the traffic and the need to navigate through the congested streets.

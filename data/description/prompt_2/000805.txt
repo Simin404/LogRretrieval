@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a test drive of a large truck on a highway. The truck is driving on the right side of the road, and there is a car driving on the left side of the road. The truck is passing a car on the right side of the road. The weather is cloudy, and the road is wet. The truck is driving on a highway with multiple lanes, and there is a bridge visible in the background. The truck is driving on the right side of the road, and there is a car driving on the left side of the road. The truck is passing a car on the right side of the road. The weather is cloudy, and the road is wet. The truck is driving on a highway with multiple lanes, and there is a bridge visible in the background.

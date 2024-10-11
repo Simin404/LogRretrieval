@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a test drive of a truck on a highway. The truck is driving on the right side of the road, and there are trees on both sides of the road. The sky is blue with some clouds, and the sun is shining. The truck is driving on a highway with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is driving on a road with a speed limit of 80 km/h. The truck is

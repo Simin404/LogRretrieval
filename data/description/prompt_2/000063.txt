@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with a large crane visible in the background. The sun is low in the sky, suggesting that it is either early morning or late afternoon. The road is clear with no visible traffic, and the car is driving in the right lane. The sky is overcast, and the sun is low in the sky, indicating either early morning or late afternoon. The car is driving on the right side of the road, and there is a large crane visible in the background. The road is clear with no visible traffic, and the car is driving in the right lane. The sky is overcast, and the sun is low in the sky, indicating either early morning or late afternoon.

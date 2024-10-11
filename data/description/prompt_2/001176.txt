@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a two-lane road with a clear sky and greenery on both sides. The car is moving at a moderate speed, and there are no other vehicles on the road. The road is surrounded by trees and bushes, and there are no visible signs of traffic or pedestrians. The car is driving on the right side of the road, and the road is marked with white lines. The car is passing a blue sign with a white arrow on the right side of the road. The driver is wearing a seatbelt and the car is in good condition. The video captures the car's side mirror and the road ahead.

@@ -1,0 +1,3 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+The video shows a car driving on a highway at night, with the car's headlights illuminating the road ahead. The car is surrounded by other vehicles, including cars and trucks, and the road is well-lit by overhead lights. The car is driving in the right lane of a three-lane highway, and the surrounding environment is dark, with the exception of the car's headlights and the overhead lights. The car is driving at a moderate speed, and there are no other notable events or behaviors in the video. The driving conditions are typical for a highway at night, with the car's headlights providing the primary source of illumination.

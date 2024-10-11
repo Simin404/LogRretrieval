@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a city street with a construction zone on the right side. The car is seen from the perspective of a dashcam, and the street is lined with buildings. The sky is cloudy, and the car is driving on a road with a blue and white striped barrier. The car is moving at a moderate speed, and there is a truck visible in the distance. The road is clear of any traffic, and the car is driving on the right side of the road. The car is seen driving past a construction zone, and the road is clear of any traffic. The sky is cloudy, and the car is driving on a road with a blue and white striped barrier.

@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a winding road surrounded by trees and greenery. The road is narrow and appears to be in a rural area. The car is moving at a moderate speed, and the driver is wearing a seatbelt. The video is taken from the perspective of the car's interior, showing the dashboard and the road ahead. The car is passing a truck on the right side of the road, and the driver is using the right turn signal to indicate the intention to turn right. The road is surrounded by trees and greenery, and the weather seems to be sunny and clear. The car is driving on the right side of the road, and there is a car parked on the side of the road. The driver is wearing a seatbelt and the car is moving at a moderate speed.

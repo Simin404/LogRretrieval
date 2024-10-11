@@ -1,0 +1,24 @@
+ER: 
+Interpret the video by identifying the driving conditions, environmental factors and any significant road events. ASSISTANT: **Driving Conditions:**
+                                            * Identify and describe the speed of the vehicle.
+                                            * Detect any instances of acceleration or deceleration. Explain if braking occurs.
+                                            * If possible, estimate the force or intensity of the acceleration/braking.
+                                        **Environmental Conditions:**
+                                            * Analyze the weather (e.g., clear, rainy, snowy, foggy) and road conditions (e.g., wet, dry, icy).
+                                        **Significant Road Events:**
+                                            * Recognize and describe any other vehicles on the road, including whether they surpass the driver or stay ahead.
+                                            * Detect any pedestrians, cyclists, or other objects (e.g., road signs, traffic lights) in or near the road.
+                                            * Note any changes in the surroundings, such as tunnels, bridges, intersections, or sharp turns approaching.
+                                            * Report any traffic congestion, accidents, or emergency vehicles in view. USER:   Describe the video with the format of                                                 **Driving conditions: ... **;                                                 **Environmental factors: ... **;                                                 **Significant events: ... **  
+
+
+**Driving Conditions:**
+                                            The video shows a car driving on a highway with a clear sky and dry road conditions.
+                                            The car is moving at a moderate speed, and there are no signs of acceleration or deceleration.
+                                            The braking force appears to be gentle, and the car maintains a steady speed.
+
+                                            **Environmental Factors:**
+                                            The weather is clear and dry, with no signs of rain, snow, or fog.
+                                            **Significant Events:**
+                                            The video captures a car driving on a highway with no other vehicles in sight, and no pedestrians or cyclists are visible.
+                                            There are no tunnels, bridges, or sharp turns approaching, and no traffic congestion or accidents are observed.

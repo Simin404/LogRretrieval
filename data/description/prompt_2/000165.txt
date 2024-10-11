@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a city street scene with multiple cars and bicycles. The driving conditions appear to be clear and sunny, with no visible rain or snow. The street is lined with buildings, and there are no visible traffic lights or signs in the video. The bicycles are moving in the same direction as the cars, and there are no visible pedestrians or other notable events. The cars are driving in a straight line, and the bicycles are also moving in a straight line. The video captures the city's hustle and bustle, with cars and bicycles sharing the road.

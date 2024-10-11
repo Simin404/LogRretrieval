@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a two-lane road with a clear sky and no visible traffic. The car is moving at a moderate speed, and the road is surrounded by trees and grassy fields. The car is passing a truck on the right side of the road. The driver is wearing a seatbelt and the car is equipped with a rear-view mirror. The road is straight and there are no visible traffic lights or signs. The car is driving on the right side of the road. The video captures the car's journey from the driver's perspective.

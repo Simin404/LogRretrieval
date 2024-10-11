@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with a clear view of the road ahead. The car is on a test drive, and the driver is seen making a right turn at an intersection. The road is lined with trees and buildings, and there are no other cars visible in the immediate vicinity. The sky is overcast, and the weather appears to be cool. The car is a small white sedan. The driver is wearing a black shirt and is seen making the turn at a moderate speed. The road is clear of any obstacles, and the car is driving smoothly.

@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a two-lane road with trees on both sides. The road is surrounded by a grassy area and there are no other vehicles in sight. The sky is overcast, and the sun is setting, creating a dim lighting condition. The car is driving on the right side of the road, and the driver is wearing a seatbelt. The road is empty, and there are no other vehicles or pedestrians visible. The car is moving at a moderate speed, and the driver is maintaining a safe distance from the center line. The road appears to be in good condition, with no visible damage or debris. The surrounding environment is rural, with no buildings or other structures in sight. The car is driving on the right side of the road, and the driver is wearing a seatbelt.

@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a highway with multiple lanes of traffic. The weather appears to be overcast and cloudy, and the visibility is not very good. The car is driving on the right side of the road, and there is a large tunnel ahead. The car is passing a white van and a black car, and there is a car in front of it. The car is also passing a white car. The driver of the car is wearing a black shirt. The car is driving on the right side of the road, and there is a large tunnel ahead. The car is passing a white van and a black car, and there is a car in front of it. The driver of the car is wearing a black shirt.

@@ -4,8 +4,18 @@
 
 To use this code, download the *Zenseact Open Dataset (ZOD)* from https://zod.zenseact.com/sequences/.
 
-Extract the contents of the *vehicle_data.tar.gz* and *images_front_blur.tar.gz* files, and place them in the `data` folder.
+Extract the contents of the *vehicle_data.tar.gz* and *images_front_blur.tar.gz* files, rename them to `signal` and `video`, and place them in the `data` folder.
 
- 
+The expected folder structure is:
 
-Utilize the query.ipynb file to search for desired scenarios.
+- `data`
+  - `signal`
+    - `000000`
+    - ...
+  - `video`
+    - `000000`
+    - ...
+
+Use *query.ipynb* file to search for desired scenarios. 
+
+Refer to  *replication.ipynb* for results mentioned in the paper.

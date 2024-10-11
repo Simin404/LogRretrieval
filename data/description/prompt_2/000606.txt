@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving on a busy highway with multiple lanes of traffic. The weather appears to be overcast and cloudy, and the road is wet, indicating recent rain. The car is driving on the right side of the road, and there are trees on both sides of the road. The car is surrounded by other vehicles, including cars and trucks, and the traffic is heavy. The driver is seen making a right turn onto a side road, and the car is seen driving on the right side of the road again. The video captures the car's movement from the perspective of a dashcam, and the surrounding environment includes buildings and trees. The car is driving in the right lane of the highway, and the driver is seen making a right turn onto a side road.

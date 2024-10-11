@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy highway with multiple lanes of traffic, including cars and trucks. The weather appears to be overcast, and the sky is a pale blue color. The road is surrounded by trees and buildings, and there is a bridge in the distance. The traffic is heavy, with cars and trucks moving in all directions. The vehicles are driving in a straight line, and there is no indication of any accidents or incidents. The road is clear of debris and the driving conditions are safe. The trucks are driving in the right lane, and the cars are in the left lane. The video captures the view from inside a vehicle, showing the road ahead and the surrounding environment.

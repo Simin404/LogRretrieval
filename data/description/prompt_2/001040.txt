@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a street with several other cars and a bicyclist. The street is lined with trees and buildings, and there are several traffic signs and barriers. The sky is overcast, and the lighting is dim. The car is driving on the right side of the road, and the road is clear of any visible obstacles. The car is driving at a moderate speed, and the driver appears to be focused on the road ahead. The bicyclist is riding in the bike lane, and there are no visible pedestrians on the street. The car is passing a blue and white striped barrier, and the road is clear of any visible obstacles. The car is driving on the right side of the road, and the driver appears to be focused on the road ahead.

@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a car driving down a wet city street on a cloudy day. The car is seen from the perspective of a dashcam, and the street is lined with tall buildings. The car is driving on the right side of the road, and there are other cars visible in the video. The street is wet, and the car's headlights are on, reflecting the wetness of the road. The car is driving in the rain, and the surrounding environment is urban. The car is seen driving past a tall building, and the street is lined with tall buildings. The car is driving on the right side of the road, and the street is wet. The car's headlights are on, reflecting the wetness of the road. The car is driving in the rain, and the surrounding environment is urban.

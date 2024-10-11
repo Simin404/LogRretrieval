@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy highway with multiple lanes of traffic, including cars, trucks, and motorcycles. The weather appears to be cloudy and overcast, with no visible sunlight. The road is wet, indicating recent rain or a damp environment. The vehicles are driving in the same direction, and there are no visible traffic signals or signs in the video. The motorcyclist is weaving through the traffic, which is a notable behavior. The trucks are large and appear to be in the right lane, while the cars are in the left lane. The motorcyclist is in the right lane, and the vehicles are driving in the same direction. The video captures the perspective of a car's windshield, showing the view of the road ahead.

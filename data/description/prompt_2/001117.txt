@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a test drive of a bus on a cloudy day. The bus is driving on a road with a few cars and a truck in front of it. The road is surrounded by trees and buildings, and there is a gas station on the right side of the road. The bus is driving on the right side of the road. The sky is cloudy, and the sun is shining through the clouds, creating a bright and somewhat dim atmosphere. The bus is driving on a street with a few cars and a truck in front of it. The road is surrounded by trees and buildings, and there is a gas station on the right side of the road. The bus is driving on the right side of the road.

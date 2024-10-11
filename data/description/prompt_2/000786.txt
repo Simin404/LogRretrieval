@@ -1,0 +1,4 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+The video shows a busy city street with a lot of traffic, including cars and trucks. The weather appears to be overcast and gloomy, with a grey sky. The road is wet, indicating that it has recently rained. The traffic is heavy, with cars and trucks moving in both directions. The trucks are large and have a green and white color scheme. The cars are mostly black and silver. The road is lined with trees and buildings, and there is a bridge in the background. The trucks are driving on the right side of the road, and the cars are driving on the left side. The video captures the view from inside a car, showing the dashboard and the road ahead. The trucks are driving in the right lane, and the cars are driving in the left lane. The trucks are driving in the right lane, and the cars are driving in the left lane.

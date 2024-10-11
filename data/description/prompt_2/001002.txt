@@ -1,0 +1,5 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 
+
+
+The video shows a car driving on a highway with a clear sky and a few trees in the background. The car is on the right side of the road, and there is a bridge visible in the distance. The road is divided into three lanes, with the car in the middle lane. The car is driving on the right side of the road, and there is a car in the left lane. The road is surrounded by trees, and there is a sign indicating a speed limit of 1110 km/h. The car is driving at a speed of 100 km/h, and there is a car in the right lane driving at a speed of 120 km/h. The car in the middle lane is driving at a speed of 111 km/h. The car in the left lane is driving at a speed of 110 km/h. The car in the middle lane is driving at a speed of 111 km/h. The car in the right lane is driving at a speed of 120 km/h. The car in the left lane is driving at a speed of 10 km/h. The car in the middle lane is driving at a speed of 111 km/h. The car in the right lane is driving at a speed of 120 km/h. The car in

@@ -1,0 +1,2 @@
+ER: 
+Given a video of the test drive, describe the driving conditions, environmental factors and other notable surrounding events and behaviors. 1. The video shows a city street with a lot of traffic. The cars are driving on a two-way street, and there are many pedestrians walking on the sidewalks. The street is lined with tall buildings, and the weather is overcast. The traffic is heavy, and the cars are driving in a line. The street is lined with tall buildings, and the weather is overcast. The traffic is heavy, and the cars are driving in a line.
